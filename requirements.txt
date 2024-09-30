@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas==2.2.1
+pickle
+random
+math
+time
+pywin32==306
+setuptools==69.1.1
+wheel==0.42.0
+
